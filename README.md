@@ -5,3 +5,4 @@ More information - https://www.jetbrains.com/help/phpstorm/2016.1/file-watchers.
 - fmt
 - vet
 - goimport
+- golint

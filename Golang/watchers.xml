@@ -41,7 +41,7 @@
   <TaskOptions>
     <option name="arguments" value="-w $FilePath$" />
     <option name="checkSyntaxErrors" value="true" />
-    <option name="description" value="" />
+    <option name="description" />
     <option name="exitCodeBehavior" value="ERROR" />
     <option name="fileExtension" value="go" />
     <option name="immediateSync" value="false" />
@@ -52,6 +52,25 @@
     </option>
     <option name="outputFromStdout" value="false" />
     <option name="program" value="/Users/Urban/www-u/go/bin/goimports" />
+    <option name="scopeName" value="Project Files" />
+    <option name="trackOnlyRoot" value="false" />
+    <option name="workingDir" value="" />
+    <envs />
+  </TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="" />
+    <option name="checkSyntaxErrors" value="false" />
+    <option name="description" />
+    <option name="exitCodeBehavior" value="ERROR" />
+    <option name="fileExtension" value="go" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="golint" />
+    <option name="output" value="$ProjectFileDir$" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="false" />
+    <option name="program" value="/Users/Urban/www-u/go/bin/golint" />
     <option name="scopeName" value="Project Files" />
     <option name="trackOnlyRoot" value="false" />
     <option name="workingDir" value="" />
