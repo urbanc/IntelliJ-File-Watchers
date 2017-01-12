@@ -2,8 +2,8 @@
 More information - https://www.jetbrains.com/help/phpstorm/2016.1/file-watchers.html
 
 Tested with:
-- PhpStorm 2016.3
-- Goglang 1.0 EAP - have to install plugin [File Watchers for IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/7177-file-watchers)
+- [PhpStorm 2016.3](https://www.jetbrains.com/phpstorm/)
+- [Goglang 1.0 EAP](https://www.jetbrains.com/go/) - have to install plugin [File Watchers for IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/7177-file-watchers)
 
 ##Golang
 - fmt https://golang.org/pkg/fmt/
